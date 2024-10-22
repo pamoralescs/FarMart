@@ -1,0 +1,60 @@
+[
+  {
+    "unit": "bundle",
+    "unitPrice": 250.0,
+    "quantity": 0,
+    "itemCode": "f3g7h7",
+    "type": "P",
+    "name": "Fence posts"
+  },
+  {
+    "hourlyRate": 500.0,
+    "hours": 0.0,
+    "itemCode": "c950qz",
+    "type": "S",
+    "name": "Field spraying"
+  },
+  {
+    "model": "Deere S700",
+    "itemCode": "h65cx9",
+    "type": "E",
+    "name": "Combine"
+  },
+  {
+    "hourlyRate": 60.0,
+    "hours": 0.0,
+    "itemCode": "11hs4q",
+    "type": "S",
+    "name": "CDL testing"
+  },
+  {
+    "unit": "ton",
+    "unitPrice": 750.0,
+    "quantity": 0,
+    "itemCode": "hpmqnn",
+    "type": "P",
+    "name": "Top soil"
+  },
+  {
+    "unit": "gal",
+    "unitPrice": 20.0,
+    "quantity": 0,
+    "itemCode": "0ubhop",
+    "type": "P",
+    "name": "Hydraulic fluid"
+  },
+  {
+    "model": "915 V-Ripper",
+    "itemCode": "m3mqdf",
+    "type": "E",
+    "name": "Ripper"
+  },
+  {
+    "unit": "liter",
+    "unitPrice": 15.0,
+    "quantity": 0,
+    "itemCode": "w5mpxx",
+    "type": "P",
+    "name": "Fertilizer"
+  }
+]

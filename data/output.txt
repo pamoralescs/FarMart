@@ -1,0 +1,163 @@
++----------------------------------------------------------------------------------------+
+| Summary Report - By Total                                                              |
++----------------------------------------------------------------------------------------+
+Invoice #  Store      Customer                       Num Items  Tax         Total         
+INV005     mm1dnq     Lyddiatt, Langsdon             2          $1524.84    $608911.51      
+INV001     3ogenr     Boyer, Dimitry                 2          $28.60      $500428.60      
+INV002     8cv4po     De la Perrelle, Catherina      3          $760.62     $50093.95       
+INV003     5g9ah6     Calkin, Dunc                   4          $270.38     $4300.38        
+INV004     6tfmkl     Christo, Jesus                 1          $0.00       $9000.00 
++----------------------------------------------------------------------------------------+
+                                                     12         $2584.44    $1172734.44 
+
++----------------------------------------------------------------+
+| Store Sales Summary Report                                     |
++----------------------------------------------------------------+
+Store      Manager                        # Sales    Grand Total    
+8cv4po     De la Perrelle, Catherina      1          $50093.95       
+7j3rir     Bielfelt, Mortie               0          $0.00           
+lgrtm6     Dover, Ben                     0          $0.00           
+ziv6ri     Sidery, Bondon                 0          $0.00           
+3ogenr     Boyer, Dimitry                 1          $500428.60      
+egirrr     Petzolt, Lawrence              0          $0.00           
+6tfmkl     Christo, Jesus                 1          $9000.00        
+mm1dnq     Lyddiatt, Langsdon             1          $608911.51      
+8sdf2a     McGrane, Vinny                 0          $0.00           
+5g9ah6     Calkin, Dunc                   1          $4300.38 
++----------------------------------------------------------------+
+                                          5          $1172734.44 
+
+Invoice  # INV005    
+Store    # mm1dnq    
+Date:      2022-02-02
+
+ Customer:
+ Lyddiatt Langsdon (j7s79g : [llyddiatt4@meetup.com, llyddiatt4@aol.com])
+     565 Schiller Point
+     Saint Cloud MN 56372 US
+
+ Sales Person:
+ McGrane Vinny (hvp9cq : [])
+     38417 Ridgeview Junction
+     Houston TX 77288 US
+
+Item                                                    		   Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+h65cx9     (Lease) Combine - Deere S700
+     364 days (2022-01-02 -> 2022-12-31) @ $50000.0/ 30 days
+                                                           $  606666.67
+11hs4q       (Service)   CDL testing                     
+     12.0 hours @ $60.00/hr
+                                                           $     720.00
+                                                             -=-=-=-=-=-
+                                                Subtotal     $607386.67                                         
+                                                     Tax     $1524.84                                           
+                                             Grand Total     $608911.51   
+Invoice  # INV001    
+Store    # 3ogenr    
+Date:      2020-06-10
+
+ Customer:
+ Boyer Dimitry (3jb9ps : [dboyer0@drupal.org])
+     9 Ramsey Alley
+     Houston TX 77240 US
+
+ Sales Person:
+ Sidery Bondon (6w8se4 : [bsidery5@taobao.com])
+     80048 Ramsey Drive
+     Charleston WV 25356 US
+
+Item                                                    		   Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+h65cx9     (Purchase) Combine - Deere S700            
+                                                           $  500000.00
+0ubhop       (Product)   Hydraulic fluid                 
+     20 @ $20.00/gal     
+                                                           $     400.00
+                                                             -=-=-=-=-=-
+	                                            Subtotal     $500400.00                                         
+	                                                 Tax     $28.60                                             
+	                                         Grand Total     $500428.60   
+Invoice  # INV002    
+Store    # 8cv4po    
+Date:      2021-11-15
+
+ Customer:
+ De la Perrelle Catherina (toeayw : [cdelaperrelle1@odnoklassniki.ru])
+     463 Eastwood Park
+     Washington DC 20041 US
+
+ Sales Person:
+ Dover Ben (rxre4a : [dtembridge6@theatlantic.com, dtembridge6@scribd.com])
+     4847 Brickson Park Road
+     Orange CA 92862 US
+
+Item                                                    		   Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+m3mqdf     (Lease) Ripper - 915 V-Ripper
+     365 days (2022-01-01 -> 2022-12-31) @ $3500.0/ 30 days
+                                                           $   42583.33
+w5mpxx       (Product)   Fertilizer                      
+     50 @ $15.00/liter   
+                                                           $     750.00
+c950qz       (Service)   Field spraying                  
+     12.0 hours @ $500.00/hr
+                                                           $    6000.00
+                                                             -=-=-=-=-=-
+                                         			Subtotal     $49333.33                                          
+                                             			 Tax     $760.62                                            
+                                      			 Grand Total     $50093.95                                          
+Invoice  # INV003    
+Store    # 5g9ah6    
+Date:      2021-11-24
+
+ Customer:
+ Calkin Dunc (ji69m7 : [dcalkin2@blog.com])
+     09956 Delladonna Place
+     Colorado Springs CO 80925 US
+
+ Sales Person:
+ Bielfelt Mortie (8yrriq : [])
+     2 Cambridge Park
+     South Lake Tahoe CA 96154 US
+
+Item                                                    		   Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+f3g7h7       (Product)   Fence posts                     
+     12 @ $250.00/bundle 
+                                                           $    3000.00
+w5mpxx       (Product)   Fertilizer                      
+     30 @ $15.00/liter   
+                                                           $     450.00
+0ubhop       (Product)   Hydraulic fluid                 
+     5 @ $20.00/gal      
+                                                           $     100.00
+11hs4q       (Service)   CDL testing                     
+     8.0 hours @ 60.00/hr
+                                                           $     480.00
+                                                             -=-=-=-=-=-
+                                         		   Subtotal     $4030.00                                           
+                                              			Tax     $270.38                                            
+                                      			Grand Total     $4300.38                                           
+Invoice  # INV004
+Store    # 6tfmkl    
+Date:      2022-01-01
+
+ Customer:
+ Christo Jesus (0g6daq : [])
+     667 Doobie Doo
+     Truth or Consequences NM 87901 US
+
+ Sales Person:
+ Petzolt Lawrence (cs0od5 : [lpetzolt8@craigslist.org])
+     50144 Beilfuss Park
+     Chicago IL 60652 US
+
+Item                                                    		   Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=-
+m3mqdf     (Purchase) Ripper - 915 V-Ripper           
+                                                           $    9000.00
+                                                             -=-=-=-=-=-
+                                                   Subtotal     $9000.00                                           
+                                                        Tax     $0.00                                              
+                                                Grand Total     $9000.00 
